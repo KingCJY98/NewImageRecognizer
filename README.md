@@ -1,0 +1,2 @@
+# NewImageRecognizer
+For images identify
